@@ -1,0 +1,17 @@
+.createReport {
+  background-color: black;
+  padding: 1rem;
+  display: flex;
+  margin-top: 2%;
+  border-radius: 12px;
+  flex-direction: column;
+  align-self: center;
+  margin-left: 20%;
+  width: 800px;
+  height: 80vh;
+}
+
+.createReport textarea {
+  width: 100%;
+  height: 20vh;
+}
